@@ -4,7 +4,7 @@ Swiggy Test Cases 🍔📋✅
 This repository contains detailed test cases for the Swiggy application, covering various functionalities such as:
 
 User Authentication (Login & Signup) 🔐
-Restaurant & Menu Browsing 🍽️
+Restaurant & Menu Browsing 🍽
 Order Placement & Payment 💳
 Cart & Checkout Process 🛒
 Order Tracking & Notifications 🚚
